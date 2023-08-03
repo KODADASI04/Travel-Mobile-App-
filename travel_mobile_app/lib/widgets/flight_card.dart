@@ -80,7 +80,7 @@ class FlightCard extends StatelessWidget {
                   Text(
                     "Rp 884.000",
                     style: TextStyle(
-                      color: Colors.amber,
+                      color: Color(0xFFFFA216),
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
                     ),

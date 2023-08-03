@@ -243,6 +243,7 @@ class ResultsPage extends StatelessWidget {
             const Icon(
               Icons.check_circle,
               color: Colors.white,
+              size: 18,
             ),
         ],
       ),
